@@ -1,0 +1,14 @@
+
+VArboles = []
+
+def Ingreso():
+    print('Ingreso de datos')
+    
+
+Ingreso()
+
+
+
+
+
+
